@@ -52,7 +52,7 @@ This project simulates the role of a Security Operations Center (SOC) Analyst. I
 
 ### 🔵 Week 4 – Threat Hunting
 
-* Identified attacker IP: 10.10.50.200
+* Identified attacker IP: 10.10.XX.XXX
 * Detected malware: mimikatz.exe
 * Extracted PowerShell command
 * Created full attack timeline
